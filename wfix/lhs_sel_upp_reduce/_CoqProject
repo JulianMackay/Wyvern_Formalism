@@ -1,0 +1,18 @@
+-R .. common
+rhs_con_reduce.v
+rhs_nil_reduce.v
+rhs_bot_reduce.v
+rhs_all_reduce.v
+rhs_sha_sel_reduce.v
+rhs_sha_top_reduce.v
+rhs_rfn_sel_reduce.v
+rhs_rfn_top_reduce.v
+rhs_nom_reduce.v
+rhs_equ_reduce.v
+rhs_low_reduce.v
+rhs_upp_reduce.v
+rhs_sel_nom_reduce.v
+rhs_sel_upp_reduce.v
+rhs_sel_equ_reduce.v
+rhs_sel_low_reduce.v
+lhs_sel_upp_reduce.v

@@ -1,0 +1,38 @@
+DIGEST a59e057da4e470e8c0ddf52daab18afa
+Fcommon.lhs_sel_bnd_reduce.rhs_nil_reduce
+R15:18 Coq.Lists.List <> <> lib
+R36:39 Coq.Bool.Bool <> <> lib
+R57:61 Coq.Arith.Arith <> <> lib
+R79:87 Coq.Arith.Peano_dec <> <> lib
+R105:122 Coq.Arith.PeanoNat <> <> lib
+R140:153 Coq.Program.Wf <> <> lib
+R171:189 Coq.Program.Tactics <> <> lib
+R207:240 Coq.Logic.FunctionalExtensionality <> <> lib
+R258:263 Coq.funind.Recdef <> <> lib
+R282:299 common.CpdtTactics <> <> lib
+R317:333 common.wyv_common <> <> lib
+R351:369 common.rhs_mat_tree <> <> lib
+prf 429:454 <> subtype_sel_bnd_nil_reduce
+R499:520 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R537:539 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R521:527 common.rhs_mat_tree <> subtype def
+R532:536 common.rhs_mat_tree <> t_nil constr
+R529:530 common.lhs_sel_bnd_reduce.rhs_nil_reduce <> T1 var
+R540:544 Coq.Init.Datatypes <> false constr
+R479:482 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R498:498 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R477:478 common.lhs_sel_bnd_reduce.rhs_nil_reduce <> T1 var
+R483:491 common.rhs_mat_tree <> t_sel_bnd constr
+R496:497 common.lhs_sel_bnd_reduce.rhs_nil_reduce <> L1 var
+R493:494 common.lhs_sel_bnd_reduce.rhs_nil_reduce <> x1 var
+R577:583 common.rhs_mat_tree <> subtype def
+R588:592 common.rhs_mat_tree <> t_bot constr
+R577:583 common.rhs_mat_tree <> subtype def
+R588:592 common.rhs_mat_tree <> t_bot constr
+R628:634 common.rhs_mat_tree <> subtype def
+R637:648 common.rhs_mat_tree <> subtype_func def
+R700:713 Coq.Program.Wf WfExtensionality fix_sub_eq_ext thm
+R762:773 common.rhs_mat_tree <> subtype_func def
+R700:713 Coq.Program.Wf WfExtensionality fix_sub_eq_ext thm
+R700:713 Coq.Program.Wf WfExtensionality fix_sub_eq_ext thm
+R762:773 common.rhs_mat_tree <> subtype_func def

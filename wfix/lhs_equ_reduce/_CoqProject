@@ -1,0 +1,6 @@
+-R ../ common
+rhs_equ_reduce.v
+rhs_low_reduce.v
+rhs_upp_reduce.v
+rhs_other_reduce.v
+lhs_equ_reduce.v

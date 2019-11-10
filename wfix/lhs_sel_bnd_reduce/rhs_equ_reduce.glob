@@ -1,0 +1,43 @@
+DIGEST 18cce1e0af8ed816b4c52183a482ab26
+Fcommon.lhs_sel_bnd_reduce.rhs_equ_reduce
+R15:18 Coq.Lists.List <> <> lib
+R36:39 Coq.Bool.Bool <> <> lib
+R57:61 Coq.Arith.Arith <> <> lib
+R79:87 Coq.Arith.Peano_dec <> <> lib
+R105:122 Coq.Arith.PeanoNat <> <> lib
+R140:153 Coq.Program.Wf <> <> lib
+R171:189 Coq.Program.Tactics <> <> lib
+R207:240 Coq.Logic.FunctionalExtensionality <> <> lib
+R258:263 Coq.funind.Recdef <> <> lib
+R282:299 common.CpdtTactics <> <> lib
+R317:333 common.wyv_common <> <> lib
+R351:369 common.rhs_mat_tree <> <> lib
+prf 429:454 <> subtype_sel_bnd_equ_reduce
+R500:521 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R559:593 Coq.Init.Logic <> ::type_scope:x_'->'_x not
+R607:609 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R594:600 common.rhs_mat_tree <> subtype def
+R605:606 common.lhs_sel_bnd_reduce.rhs_equ_reduce <> T2 var
+R602:603 common.lhs_sel_bnd_reduce.rhs_equ_reduce <> T1 var
+R610:614 Coq.Init.Datatypes <> false constr
+R542:545 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R558:558 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R540:541 common.lhs_sel_bnd_reduce.rhs_equ_reduce <> T2 var
+R546:550 common.rhs_mat_tree <> t_equ constr
+R555:557 common.lhs_sel_bnd_reduce.rhs_equ_reduce <> T2' var
+R552:553 common.lhs_sel_bnd_reduce.rhs_equ_reduce <> L2 var
+R480:483 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R499:499 Coq.Init.Logic <> ::type_scope:x_'='_x not
+R478:479 common.lhs_sel_bnd_reduce.rhs_equ_reduce <> T1 var
+R484:492 common.rhs_mat_tree <> t_sel_bnd constr
+R497:498 common.lhs_sel_bnd_reduce.rhs_equ_reduce <> L1 var
+R494:495 common.lhs_sel_bnd_reduce.rhs_equ_reduce <> x1 var
+R647:653 common.rhs_mat_tree <> subtype def
+R647:653 common.rhs_mat_tree <> subtype def
+R698:704 common.rhs_mat_tree <> subtype def
+R707:718 common.rhs_mat_tree <> subtype_func def
+R770:783 Coq.Program.Wf WfExtensionality fix_sub_eq_ext thm
+R832:843 common.rhs_mat_tree <> subtype_func def
+R770:783 Coq.Program.Wf WfExtensionality fix_sub_eq_ext thm
+R770:783 Coq.Program.Wf WfExtensionality fix_sub_eq_ext thm
+R832:843 common.rhs_mat_tree <> subtype_func def

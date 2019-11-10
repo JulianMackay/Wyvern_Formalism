@@ -1,0 +1,5 @@
+-R ../ common
+rhs_sel_low_reduce.v
+rhs_sel_equ_reduce.v
+rhs_other_reduce.v
+lhs_sha_top_reduce.v

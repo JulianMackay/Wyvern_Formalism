@@ -1,0 +1,8 @@
+-R ../ common
+subtype_lhs_rfn_sel_reduce.v
+subtype_lhs_sel_equ_reduce.v
+subtype_lhs_sel_nom_reduce.v
+subtype_lhs_sel_upp_reduce.v
+subtype_lhs_sha_sel_reduce.v
+subtype_rhs_sel_equ_reduce.v
+subtype_rhs_sel_low_reduce.v

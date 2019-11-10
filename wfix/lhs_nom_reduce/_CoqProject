@@ -1,0 +1,5 @@
+-R ../ common
+rhs_nom_reduce.v
+rhs_upp_reduce.v
+rhs_other_reduce.v
+lhs_nom_reduce.v
